@@ -1,0 +1,13 @@
+.cards {
+	background-attachment: white;
+	text-align:center;
+	box-shadow:1px 1px 5px 6px rgba(0, 0, 0, 0, 0.3);
+	display:flex;
+}
+
+.image-card{
+	width: 100%;
+	height: 80%;
+	object-fit:cover;
+}
+
