@@ -1,0 +1,15 @@
+.card{
+	background-color: white;
+	text-align:center;
+	padding:16px;
+	border-radius: 6px;
+	box-shadow:5px 5px 10px 10px rgba(0, 0, 0, 0, 0.3);
+
+}
+
+.cards{
+	display:grid;
+	grid-template-columns:1fr;
+	grid-gap:8px;
+}
+
