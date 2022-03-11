@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;700&family=Poppins:wght@100;300&display=swap');
+@import url("banner.css");
+@import url("cards.css");
+@import url("buttons.css");
+@import url("footer.css");
+
+a {
+	text-decoration: none;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	margin: 0; 
+}
+
+h1 {
+font-size:70px;
+margin:0;
+color:white;
+}
+
+h2 {
+font-size:40px;
+text-shadow: none;
+text-align: center;
+}
+
+h3 {
+	color: black;
+	background-color: #E0BDCD;
+}
+
+
+.align-text {
+	text-align: center;
+}
+
+
+#color-one {
+	background-color: #E7C1CE;
+	padding: 15px;
+}
+
+#color-two {
+	background-color: #EFD7F1;
+	padding: 15px;
+}
+
+#color-three {
+	background-color: #ECD5EA;
+	padding: 15px;
+}
+
+
+

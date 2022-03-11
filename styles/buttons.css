@@ -1,0 +1,19 @@
+.btn_hover {
+	color: white;
+	background-color: black;
+	padding: 20px 30px;
+	border-radius:6px;
+	font-family: sans-serif;
+	font-size: 15px;
+	font-weight:bolder;
+	border: 1px solid #E7C1CE;
+	transition: 1s;
+	margin: 50px;
+}
+
+.btn_hover:hover {
+	color: #E7C1CE;
+	transition: 1s;
+}
+
+

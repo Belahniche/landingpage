@@ -1,0 +1,72 @@
+#banner {
+	height: 70vh;
+	background-image: url("../images/creme.jpg");
+	background-size: cover;
+	color:white;
+	background-position:top;
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+	align-items: center;
+	
+}
+
+#banner h1 {
+	text-shadow: 1px 1px 4px grey;
+}
+
+#banner h2 {
+	text-shadow: 1px 1px 4px grey;
+}
+
+.barnav {
+	position: fixed;
+	top:0;
+	left:0;
+	width: 100%;
+	z-index: 999;
+	list-style: none;
+	color: black;
+	background-color: white;
+	padding: 30px 50px;
+	font-family: sans-serif;
+	font-weight:bolder;
+	margin: 0px;
+	text-decoration-line: overline;
+}
+
+.barnav li {
+	display: inline;
+	margin: 0 10px;
+	padding: 80px 80px;
+	
+}
+
+.barnav li>a {
+	color: black;
+}
+
+.hover_barnav_expertise:hover {
+	color: #996F65;
+	transition: 1s;
+}
+
+.hover_barnav_realisations:hover {
+	color: #996F65;
+	transition: 1s;
+}
+
+.hover_barnav_solutions_offres:hover {
+	color: #996F65;
+	transition: 1s;
+}
+
+.hover_barnav_contact:hover {
+	color: #996F65;
+	transition: 1s;
+}
+
+
+
+
+
